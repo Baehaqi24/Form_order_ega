@@ -1,0 +1,10 @@
+body {
+    background-image: url(bg\ pink.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 2px;
+}
